@@ -13,7 +13,7 @@ An autonomous vehicle developed in 24 hours at UTRA Hacks (University of Toronto
 - 🧠 **Microcontroller**: Arduino UNO  
 - ⚙️ **Motors**: 2x DC motors with driver  
 - 👀 **Sensors**:
-  - 2x Infrared (IR) sensors (for line following)
+  - 2x Infrared sensors (for line following)
   - 1x Ultrasonic sensor (for obstacle detection)
 
 ---
