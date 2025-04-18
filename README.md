@@ -4,7 +4,7 @@
 [![Platform](https://img.shields.io/badge/Microcontroller-Arduino%20UNO-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
 [![Sensors](https://img.shields.io/badge/Sensors-Infrared%20%26%20Ultrasonic-yellowgreen?style=for-the-badge)]()
 
-An autonomous vehicle developed in 24 hours at **UTRA Hacks** (University of Toronto Robotics Association). Built using an **Arduino UNO**, the vehicle completes mini challenges using infrared and ultrasonic sensors for real-time navigation, line following, and obstacle avoidance.
+An autonomous vehicle developed in 24 hours at UTRA Hacks (University of Toronto Robotics Association), using an Arduino UNO, two motors, and a combination of infrared and ultrasonic sensors. The vehicle successfully completed mini challenges such as line following and obstacle avoidance, with real-time navigation logic implemented in the Arduino IDE.
 
 ---
 
