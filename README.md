@@ -36,7 +36,7 @@ An autonomous vehicle developed in 24 hours at UTRA Hacks (University of Toronto
 
 ## 👥 Team & Timeline
 
-- 👨‍💻 Team Size: 4  
+- 👨‍💻 Team Size: 5  
 - 🕒 Built in: 24 hours  
 - 🏫 Event: UTRA Hacks (University of Toronto Robotics Association)
 
