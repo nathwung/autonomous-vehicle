@@ -18,7 +18,7 @@ An autonomous vehicle developed in 24 hours at UTRA Hacks (University of Toronto
 
 ---
 
-## 💡 Features
+## 🚀 Features
 
 ### 🔁 Real-Time Navigation
 - Autonomous control loop using Arduino IDE
