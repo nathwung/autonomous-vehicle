@@ -51,4 +51,5 @@ An autonomous vehicle developed in 24 hours at UTRA Hacks (University of Toronto
 
 ## 🔗 Links
 
+- 🧠 **Devpost Page**: [Autonomous Vehicle on Devpost](https://devpost.com/software/autonomous-vehicle)
 - 💻 **GitHub Repository**: [Autonomous Vehicle Project](https://github.com/nathwung/autonomous-vehicle)
