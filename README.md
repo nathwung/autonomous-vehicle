@@ -44,7 +44,7 @@ An autonomous vehicle developed in 24 hours at UTRA Hacks (University of Toronto
 
 ## 📸 Media & Demo
 
-> _Coming soon — add video or photos of the vehicle navigating!_
+![First Picture](./pic1.jpg)
 
 ---
 
