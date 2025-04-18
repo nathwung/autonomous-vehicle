@@ -48,13 +48,6 @@ An autonomous vehicle developed in 24 hours at UTRA Hacks (University of Toronto
 
 ---
 
-## 📦 Project Files
-
-> This is a hardware-focused project. Arduino code, schematics, and wiring diagrams can be uploaded here if applicable.
-
----
-
 ## 🔗 Links
 
 - 💻 **GitHub Repository**: [Autonomous Vehicle Project](https://github.com/nathwung/autonomous-vehicle)
-- 📷 **Demo Video**: _Coming Soon_
